@@ -1,0 +1,114 @@
+#staffAround {
+    width: 100%;
+}
+
+.staffmain {
+    font-size: 15px;
+    font-weight: bold;
+    color: gray;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#navbarSupportedContent ul li {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#navbarSupportedContent ul li:hover {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.Breadcrumb {
+    text-decoration: none;
+    text-align: center;
+}
+#addButton {
+    float: right;
+}
+
+@media screen and (min-width: 300px) {
+    #searchStaff {
+      width: 100%;
+      float: right;
+    }
+
+    .salary {
+        width: 95% !important;
+    }
+  }
+  
+  @media screen and (min-width: 768px) {
+      #searchStaff {
+        width: 50%;
+      }
+      .dept {
+        width: 45% !important;
+    }
+    .salary {
+        width: 45% !important;
+    } 
+  }
+
+  @media screen and (min-width: 992px) {
+    .dept {
+      width: 30% !important;
+  } 
+  .salary {
+    width: 32% !important;
+} 
+}
+
+#btnSubmit {
+    margin: auto;
+}
+
+#exampleDoB, 
+#exampleName,
+#examplestartDate,
+#exampleDepartment,
+#examplesalaryScale,
+#exampleannualLeave,
+#exampleoverTime {
+    width: 100%;
+    margin-top: 2px;
+    border-radius: 5px;
+    height: 40px;
+    padding: 1px;
+}
+
+.staffview {
+    position: relative;
+}
+
+.form-message {
+    color: #f33a58;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    padding: 4px 0 0;
+}
+
+.labelInput {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#imgStaff {
+    width: 100%;
+}
+
+#showSalary {
+    color:  red;
+    border-top: solid 1px #000;
+    padding-top: 3px;
+}
+
+#showSalary h6 {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.deptClass {
+    text-decoration: none;
+}

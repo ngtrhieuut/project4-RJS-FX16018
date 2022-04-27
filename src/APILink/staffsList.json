@@ -1,0 +1,240 @@
+{
+  "STAFFS": [
+    {
+      "id": 0,
+      "name": "Nguyễn Văn A",
+      "doB": "1999-01-01T08:59:00.000Z",
+      "salaryScale": 1.1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept01",
+      "annualLeave": 1,
+      "overTime": 1,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 1,
+      "name": "Nguyễn Văn B",
+      "doB": "2000-01-01T08:59:00.000Z",
+      "salaryScale": 1.2,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept02",
+      "annualLeave": 2,
+      "overTime": 3,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Văn C",
+      "doB": "2001-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept04",
+      "annualLeave": 4,
+      "overTime": 5,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 3,
+      "name": "Nguyễn Văn D",
+      "doB": "2002-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept03",
+      "annualLeave": 6,
+      "overTime": 7,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 4,
+      "name": "Nguyễn Văn E",
+      "doB": "1999-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept03",
+      "annualLeave": 8,
+      "overTime": 1,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 5,
+      "name": "Nguyễn Văn F",
+      "doB": "2003-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept05",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 6,
+      "name": "Nguyễn Văn G",
+      "doB": "2003-01-05T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2017-04-28T08:59:00.000Z",
+      "departmentId": "Dept05",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 7,
+      "name": "Nguyễn Văn H",
+      "doB": "2003-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept03",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 8,
+      "name": "Nguyễn Văn I",
+      "doB": "2003-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept04",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 9,
+      "name": "Nguyễn Văn L",
+      "doB": "2002-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept05",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 10,
+      "name": "Nguyễn Văn M",
+      "doB": "2003-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept05",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 11,
+      "name": "Nguyễn Văn N",
+      "doB": "2003-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept05",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 12,
+      "name": "Nguyễn Văn O",
+      "doB": "2003-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept05",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 13,
+      "name": "Nguyễn Văn S",
+      "doB": "2003-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept05",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 14,
+      "name": "Nguyễn Văn R",
+      "doB": "2003-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept05",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": 15,
+      "name": "Nguyễn Văn T",
+      "doB": "2001-01-01T08:59:00.000Z",
+      "salaryScale": 1,
+      "startDate": "2019-04-30T08:59:00.000Z",
+      "departmentId": "Dept05",
+      "annualLeave": 9,
+      "overTime": 10,
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": "56e6861f-4b5f-4a85-ad4c-6f4c78b1ca0b",
+      "name": "Nguyễn Trung Hiếu",
+      "doB": "1997-08-09",
+      "salaryScale": "1",
+      "startDate": "2019-01-01",
+      "department": "",
+      "annualLeave": "1",
+      "overTime": "1",
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": "17aaa4f1-972d-474a-921b-fdc8f8860568",
+      "name": "Nguyễn Trung",
+      "doB": "2002-02-03",
+      "salaryScale": "2",
+      "startDate": "2020-01-02",
+      "department": "Finance",
+      "annualLeave": "1",
+      "overTime": "1",
+      "image": "/assets/images/alberto.png"
+    },
+    {
+      "id": "439e0f61-c687-4de1-b196-89e8903e12c6",
+      "name": "Nguyễn Văn",
+      "doB": "1999-01-01",
+      "salaryScale": "2",
+      "startDate": "2020-01-01",
+      "department": "HR",
+      "annualLeave": "1",
+      "overTime": "1",
+      "image": "/assets/images/alberto.png"
+    }
+  ],
+  "DEPARTMENT": [
+    {
+      "id": "Dept01",
+      "name": "Sale",
+      "numberOfStaff": 1
+    },
+    {
+      "id": "Dept02",
+      "name": "HR",
+      "numberOfStaff": 1
+    },
+    {
+      "id": "Dept03",
+      "name": "Marketing",
+      "numberOfStaff": 3
+    },
+    {
+      "id": "Dept04",
+      "name": "IT",
+      "numberOfStaff": 2
+    },
+    {
+      "id": "Dept05",
+      "name": "Finance",
+      "numberOfStaff": 9
+    }
+  ]
+}
