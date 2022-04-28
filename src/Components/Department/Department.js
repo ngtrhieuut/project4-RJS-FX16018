@@ -4,7 +4,6 @@ import { getDept } from "./departmentSlide";
 import { useEffect } from "react";
 import { Link } from "react-router-dom";
 
-
     
 function Department() {
 
@@ -17,12 +16,12 @@ function Department() {
     const newDept = useSelector(state => state.department.departments);
 
     return (
-        <div className="container">
+        <div className='container'>
             <BreadcrumbbarDept />
 
             <div className='row container d-flex justify-content-center'>
                 {newDept.map(dept => (
-                    <div className="dept card col-12 col-md-6 col-lg-4 m-1" key={dept.id}>
+                    <div className="dept card col-12 col-md-6 col-lg-4 m-1 fade-in" key={dept.id}>
                         <Link to={`/department/${dept.id}`} id={dept.id} className='deptClass'>                            
                             <div className="card-body">
                                 <h5 className="card-title">Phòng ban: {dept.name}</h5>

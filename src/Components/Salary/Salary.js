@@ -20,11 +20,11 @@ function Salary() {
     // }
 
     return (
-        <div className="dep container">
+        <div className='container'>
             <BreadcrumbbarSalary />
             <div className='row conatainer d-flex justify-content-center'>
                 {newSalary.map(salary => (
-                    <div className="card col-12 col-md-6 col-lg-4 m-1 salary" key={salary.id}>
+                    <div className="card col-12 col-md-6 col-lg-4 m-1 salary fade-in" key={salary.id}>
                         <div className="card-body"> 
                             <h5 className="card-title">{salary.name}</h5>
                             <h6 className="card-subtitle mb-2 text-muted">Mã nhân viên: {salary.id}</h6>

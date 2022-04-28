@@ -10,7 +10,6 @@ import { Link, Outlet } from 'react-router-dom';
 import { delStaff, getStaffs } from './staffListSlide';
 
 
-
 function Staff() {
     
     const staffList = useSelector(staffRemaining);
@@ -53,7 +52,7 @@ function Staff() {
                     <CardBody className='row' id='parentElement'>
                         {staffList.map(staff => (
 
-                            <Card className='col-6 col-md-4 col-lg-2 mb-2 p-2 staffview' key={staff.id} id={staff.id}>
+                            <Card className='col-6 col-md-4 col-lg-2 mb-2 p-2 staffview fade-in' key={staff.id} id={staff.id}>
                                 <div className={style.containerBtn + " " + style.zoomShrink} onClick={e => handleDeleteStaff(e)}>
                                     <div className={style.closeIcon + " " + style.zoomShrink}></div>
                                 </div>
