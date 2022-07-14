@@ -4,11 +4,10 @@ import AddStaff from './AddStaff';
 import style from './closBtn.module.css';
 import {useSelector, useDispatch} from 'react-redux';
 import { staffRemaining } from '../../redux/selectors';
-import filterSlide from './filterSlide';
+import filterSlide from './filterSilde';
 import { useState, useEffect } from 'react';
 import { Link, Outlet } from 'react-router-dom';
 import { delStaff, getStaffs } from './staffListSlide';
-
 
 function Staff() {
     

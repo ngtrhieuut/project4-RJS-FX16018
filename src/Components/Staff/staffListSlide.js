@@ -94,7 +94,6 @@ const staffListSlice = createSlice({
             console.log({state, action})
             state.status = "success";
             state.staffs = action.payload;
-
         },
         [delStaff.rejected]: (state, action) => {
             state.status = "failed";

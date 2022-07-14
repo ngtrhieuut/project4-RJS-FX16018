@@ -2,7 +2,7 @@ import { configureStore } from '@reduxjs/toolkit';
 // import thunkMiddleware from 'redux-thunk';
 // import loggerMiddleware from './middleware/logger'
 import monitorReducerEnhancer from './enhancers/monitorReducer'
-import filterSlide from "../Components/Staff/filterSlide";
+import filterSlide from "../Components/Staff/filterSilde";
 import staffListSlide from "../Components/Staff/staffListSlide";
 import departmentSlide from '../Components/Department/departmentSlide';
 import salarySlice from "../Components/Salary/salarySlice";
